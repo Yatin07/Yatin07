@@ -1,3 +1,110 @@
+<h1 align="center">Hi, I'm Yatin Patil 👋</h1>
+
+<p align="center">
+  <b>B.Tech Information Technology · NMIMS University · 2023–2027</b><br/>
+  Data Science & AI/ML Engineer · Building real-world solutions at the intersection of data and product
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yatinpatil07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yatinpatilyp07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Yatin07"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## About Me
+
+I'm a third-year IT student passionate about turning raw data into actionable insights and shipping end-to-end AI systems. My work spans computer vision, predictive analytics, and mobile app development — with a focus on projects that solve real problems for real users.
+
+- 🔭 **Currently building:** AI-Powered Demand Forecasting & Inventory Intelligence Platform for small food businesses (Flutter + FastAPI + XGBoost)
+- 🌱 **Currently learning:** DevOps & cloud automation · CNNs/GANs for image processing · Full-stack with Node.js & React
+- 💡 **Interests:** AI for environment & health · Smart city applications · Hackathons
+- 📬 **Reach me at:** yatinpatilyp07@gmail.com
+
+---
+
+## Featured Projects
+
+### 🌾 Agro.ai — AI-Based Crop Disease Detection
+Computer vision system trained on 87K+ labeled images across 38 crop disease classes.  
+Applied MobileNetV2 feature extraction with Random Forest and CNN models; built an end-to-end TensorFlow + Scikit-learn pipeline with automated treatment recommendations.  
+`TensorFlow` `MobileNetV2` `CNN` `Scikit-learn` `Python`
+
+### 📊 Tennis ATP Analytics & Prediction Dashboard
+Interactive Power BI dashboard analyzing ATP rankings, match statistics, and player performance metrics.  
+Designed a Galaxy Schema data model with optimized DAX measures; integrated an XGBoost model for match win probability prediction.  
+`Power BI` `XGBoost` `DAX` `Python` `Predictive Analytics`
+
+### 📱 Hostel Complaint Management System
+Multi-role Android app (Students, Wardens, Staff) with real-time complaint tracking using Firebase Firestore.  
+Implemented RBAC, live dashboard updates via SnapshotListeners, image compression pipelines, and Python automation scripts via Firebase Admin SDK.  
+`Java` `Android Studio` `Firebase Firestore` `Python` `RBAC`
+
+### 🍽️ AI Demand Forecasting Platform *(In Progress)*
+Predicts daily/weekly product demand for small food businesses using historical sales, weather, holidays, and seasonal trends.  
+Building with Flutter frontend, FastAPI backend, and ML models (XGBoost / LightGBM / LSTM), integrated with OpenWeather API.  
+`Flutter` `FastAPI` `XGBoost` `LightGBM` `PostgreSQL` `Python`
+
+---
+
+## Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**AI / ML / Data**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Analytics & Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Development & Cloud**  
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
+---
+
+## Experience & Certifications
+
+**IBM SkillsBuild — Data Analytics Internship** *(Jun–Aug 2024)*  
+Data preprocessing, EDA, and visualization; built analytical reports and dashboards for data-driven decision-making.
+
+**Certifications**
+- Mastering MySQL: Beginner to Advanced — Udemy (2026)
+- Agentic AI — IBM SkillsBuild (2025)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yatin07&theme=default&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin07&theme=default&hide_border=true&layout=compact" height="160"/>
+</p>
+
+---
+
+*Open to internships, research collaborations, and hackathon opportunities in AI/ML and full-stack development.*
+
 # 💫 Hi 👋, I'm Yatin Patil  
 **A passionate Engineer | B.Tech IT Student | AI/ML enthusiast from India**  
 
