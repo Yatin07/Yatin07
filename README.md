@@ -139,6 +139,18 @@ Predicts daily demand for small food businesses using sales history, weather & h
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Yatin07?theme=dark&font=Fira%20Code&ext=heatmap)
 
+- ⚡ **Fun fact:**  
+  I love building meaningful tech projects — and my cat silently judges my code. 🐱💻  
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+- 📫 **How to reach me:**  
+  📬 **yatinpatilyp07@gmail.com**  
+  🔗 [LinkedIn](http://www.linkedin.com/in/yatin-patil-12b109293)
+
 </div>
 
 <div align="center">
@@ -147,15 +159,6 @@ Predicts daily demand for small food businesses using sales history, weather & h
 
 </div>
 
-- 📫 **How to reach me:**  
-  📬 **yatinpatilyp07@gmail.com**  
-  🔗 [LinkedIn](http://www.linkedin.com/in/yatin-patil-12b109293)
 
-- ⚡ **Fun fact:**  
-  I love building meaningful tech projects — and my cat silently judges my code. 🐱💻  
 
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
