@@ -6,16 +6,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=4th+Year+B.Tech+IT+%40+NMIMS;Data+Science+%7C+AI%2FML+%7C+Android;194%2B+LeetCode+Problems+Solved+%E2%9C%85;Currently+building+AI+for+food+businesses+%F0%9F%8D%BD%EF%B8%8F"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=480&lines=4th+Year+B.Tech+IT+%40+NMIMS;Data+Science+%7C+AI%2FML+%7C+Android;200%2B+LeetCode+Problems+Solved+%E2%9C%85;Building+AI+for+Food+Businesses+%F0%9F%8D%BD"/>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yatin07&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Yatin07&cc=0d1117&tc=00D9FF&ic=00D9FF&bc=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=Yatin07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&cache_seconds=1800" height="160"/>
+  <a href="https://linkedin.com/in/yatinpatil07"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yatinpatilyp07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Yatin07/"><img src="https://img.shields.io/badge/-LeetCode_200%2B-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Yatin07&color=00D9FF&style=flat-square&label=visitors"/>
 </div>
 
 <br/>
@@ -42,8 +40,8 @@ superpower : Turning messy data into decisions that actually make sense
 
 ### 🔥 What I'm Working On
 
-> **🍽️ AI-Powered Inventory Intelligence Platform** *(active)*
-> Predicts daily/weekly product demand for restaurants & cloud kitchens using historical sales, weather, festivals & seasonality.
+> **🍽️ AI-Powered Inventory Intelligence Platform** *(active)*  
+> Predicts daily/weekly product demand for restaurants & cloud kitchens using historical sales, weather, festivals & seasonality.  
 > Stack: `Flutter` · `FastAPI` · `XGBoost / LightGBM / LSTM` · `PostgreSQL` · `OpenWeather API`
 
 ---
@@ -115,8 +113,7 @@ superpower : Turning messy data into decisions that actually make sense
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yatin07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatin07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" height="160"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=Yatin07&cc=0d1117&tc=00D9FF&ic=00D9FF&bc=0d1117" height="170"/>
 </div>
 
 ---
