@@ -25,7 +25,7 @@
 ```yaml
 name       : Yatin Patil
 role       : B.Tech IT Student · Data Science & AI/ML Engineer
-university : NMIMS University, Mumbai  |  CGPA: 3.58 / 4.0
+university : NMIMS University, Mumbai  |  CGPA: 3.62/ 4.0
 batch      : 2023 – 2027  (4th Year)
 
 now_building:
@@ -131,7 +131,7 @@ superpower : Turning messy data into decisions that actually make sense
 ```
 🥇  SAS Curiosity Cup — Global Data Analytics Competition
 ⚡  Buildathon 2026 + multiple national-level hackathons
-🎓  CGPA 3.58 / 4.0  |  IBM SkillsBuild Data Analytics Intern (2024)
+🎓  CGPA 3.62 / 4.0  |  IBM SkillsBuild Data Analytics Intern (2024)
 🐱  My cat has reviewed more of my commits than my professors
 ```
 
